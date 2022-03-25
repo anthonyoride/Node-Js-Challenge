@@ -1,4 +1,4 @@
-# Backend engineering challenge
+# PaTiTi Backend engineering challenge
 
 This challenge is used by PaTiTi for evaluating candidates for backend development positions.
 
